@@ -26,4 +26,4 @@ End Sub
 
 ##  EJERCICIO DE DIAGRAMA DE FLUJO EN STAR UML
 
-<img src="img/captura-de-pantalla-(21).jpg" width="300">
+<img src ="img/captura-de-pantalla-(21).jpg" width="300">
