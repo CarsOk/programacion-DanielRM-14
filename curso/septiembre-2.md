@@ -1,5 +1,7 @@
 # PROGRAMACION
 
+## FECHA
+
 # septiembre 2 de 2021
  
  El intructor henry nos hablo sobre las variables y realizo el siguiente ejercicio
